@@ -1,0 +1,1 @@
+DEPS += $(shell find .. -maxdepth 1 -name "*.h")
